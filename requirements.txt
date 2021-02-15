@@ -1,0 +1,2 @@
+# `pip install pywhatkit` https://pypi.org/project/pywhatkit/
+# `pip install python`  https://www.python.org/
